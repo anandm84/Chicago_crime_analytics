@@ -46,8 +46,9 @@ information about crimes that have occurred in Chicago, including crime type, lo
 status, and timestamps. We have also got datasets for Community Areas and Police
 Districts to integrate with the area and district codes in the main crimes dataset. The use of
 such reliable and publicly available data ensures that the analysis is credible and up-to-date.
+
 Client’s Perspective:
-Client Details : Anand Marepalli (anandm5@illinois.edu)
+
 After reviewing the three dashboards, the visualizations provide valuable insights into crime
 patterns in Chicago over time. Anand is a student at UIUC who likes travelling and who often
 visits to chicago. Our friend Anand noted that the dashboards are intuitive and effectively
